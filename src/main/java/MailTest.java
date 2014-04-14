@@ -3,7 +3,7 @@ public class MailTest {
         MailService mailService = new MailService();
 
         String from = "polak.mariola@gmail.com";
-        String to = "michalskidaniel2@gmail.com";
+        String to = "marjola3@poczta.onet.pl";
         String subcject = "subcject";
         String text = "message";
 
